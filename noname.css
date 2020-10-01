@@ -1,0 +1,28 @@
+body{
+background-color:#000000;
+
+}
+#head{
+color:#15f4ee;
+text-align: center;
+
+font-size:50px;
+}
+#btn{
+background-color:#000000;
+color:#15f4ee;
+position: relative;p""
+left:6%;
+border-radius:15px;
+height:100px;
+} 
+ul{
+margin:0;
+padding:0;
+list-style:none;
+height:60px;
+line-height:60px;
+background-color:#156ee2;
+font-family:Arial, Helvetica,sans-sarif;
+font-size:15px;
+}
