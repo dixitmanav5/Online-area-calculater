@@ -19,6 +19,8 @@ height:100px;
 } 
 #manav{
   color:#15f4ee;
+  position:absolute;
+  top:52%;
 ul{
 margin:0;
 padding:0;
