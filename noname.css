@@ -4,7 +4,8 @@ background-color:#000000;
 }
 #head{
 color:#15f4ee;
-text-align: center;
+position:absolute;
+  top:45;
 
 font-size:50px;
 }
