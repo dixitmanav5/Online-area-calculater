@@ -21,7 +21,10 @@ height:100px;
 #abc{
   color:#15f4ee;
   }
-
+#area{
+ font-size:0px;
+ color:#000000;
+ }
 ul{
 margin:0;
 padding:0;
